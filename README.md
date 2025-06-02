@@ -57,5 +57,37 @@ Trained and evaluated the following regression models:
 - Predicts expected sales.
 - Deployed using Streamlit interface.
 
-### 🏗 App Structure
+- ---
+
+## 📄 Deliverables
+
+📊 SalesPrediction.ipynb: Jupyter notebook with full modeling process.
+
+📝 SalesPrediction_Report.docx: Formal project report.
+
+📽 SalesPrediction_Presentation.pptx: Presentation slide deck.
+
+🌐 app.py: Streamlit app for deployment.
+
+---
+
+## 🔮 Future Work
+
+Incorporate additional advertising channels (e.g., digital, social).
+
+Use advanced models like LightGBM or AutoML.
+
+Implement a database or API backend for real-time prediction.
+
+---
+
+## 👤 Author
+GitHub: LegendaryLapulgaa
+
+Email: emmanuelnzekwue@icloud.com
+
+---
+
+📜 License
+This project is licensed under the MIT License.
 
