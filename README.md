@@ -57,7 +57,7 @@ Trained and evaluated the following regression models:
 - Predicts expected sales.
 - Deployed using Streamlit interface.
 
-- ---
+---
 
 ## 📄 Deliverables
 
